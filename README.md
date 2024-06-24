@@ -30,10 +30,6 @@ To get started with Fluxus Executor, follow these simple steps:
 2. Extract the downloaded ZIP file to a location of your choice.
 3. Run the Fluxus Executor application and start exploring its features.
 
-<!-- Insert the colorful download button linking to "https://github.com/user-attachments/files/15569874/Fluxus.zip" -->
-
-[![Download Fluxus Executor](https://img.shields.io/badge/Download-Fluxus-blue)](https://github.com/user-attachments/files/15569874/Fluxus.zip)
-
 <!-- Provide clear and concise installation instructions -->
 
 ## Repository Topics
@@ -62,7 +58,6 @@ This repository covers a wide range of topics related to Roblox Fluxus Executor,
 Join the Fluxus community to stay in touch with the latest updates, discussions, and announcements:
 
 - [Fluxus Discord Server](https://discord.gg/fluxus)
-- Follow us on [Twitter](https://twitter.com/fluxusupdates) for real-time updates and news.
 
 <!-- Encourage users to engage with the community -->
 
